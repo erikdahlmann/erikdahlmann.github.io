@@ -1,0 +1,6 @@
+# Ins Repo kommen nur die fertigen Seiten. Quellen, Bilder, Skripte und das Passwort bleiben lokal.
+*
+!.gitignore
+!index.html
+!impressum.html
+!datenschutz.html
